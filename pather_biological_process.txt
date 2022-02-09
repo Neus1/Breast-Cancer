@@ -1,0 +1,71 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20220202)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.5725227 Released 2021-11-16
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Homo sapiens - REFLIST (20595)	upload_1 (96)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+Arp2/3 protein complex (GO:0005885)	9	3	.04	+	71.51	2.07E-05	1.27E-03
+sarcoplasmic reticulum lumen (GO:0033018)	10	2	.05	+	42.91	1.36E-03	4.77E-02
+GTPase complex (GO:1905360)	36	3	.17	+	17.88	7.84E-04	2.84E-02
+cyclin-dependent protein kinase holoenzyme complex (GO:0000307)	51	4	.24	+	16.83	1.24E-04	6.43E-03
+immunological synapse (GO:0001772)	44	3	.21	+	14.63	1.35E-03	4.81E-02
+extrinsic component of cytoplasmic side of plasma membrane (GO:0031234)	100	6	.47	+	12.87	1.00E-05	6.54E-04
+ruffle membrane (GO:0032587)	97	5	.45	+	11.06	1.13E-04	6.03E-03
+cytoplasmic side of plasma membrane (GO:0009898)	170	8	.79	+	10.10	1.78E-06	1.81E-04
+protein kinase complex (GO:1902911)	119	5	.55	+	9.01	2.82E-04	1.17E-02
+cytoplasmic side of membrane (GO:0098562)	196	8	.91	+	8.76	4.91E-06	3.56E-04
+focal adhesion (GO:0005925)	420	17	1.96	+	8.68	1.64E-11	6.66E-09
+cell-substrate junction (GO:0030055)	429	17	2.00	+	8.50	2.26E-11	7.64E-09
+extrinsic component of plasma membrane (GO:0019897)	173	6	.81	+	7.44	1.88E-04	8.45E-03
+lamellipodium (GO:0030027)	203	7	.95	+	7.40	5.57E-05	3.05E-03
+leading edge membrane (GO:0031256)	177	6	.83	+	7.27	2.11E-04	9.32E-03
+anchoring junction (GO:0070161)	841	24	3.92	+	6.12	8.86E-13	5.98E-10
+cell leading edge (GO:0031252)	421	11	1.96	+	5.61	5.19E-06	3.63E-04
+extrinsic component of membrane (GO:0019898)	317	8	1.48	+	5.41	1.36E-04	6.89E-03
+glutamatergic synapse (GO:0098978)	328	8	1.53	+	5.23	1.71E-04	8.24E-03
+membrane raft (GO:0045121)	330	8	1.54	+	5.20	1.78E-04	8.38E-03
+membrane microdomain (GO:0098857)	331	8	1.54	+	5.19	1.81E-04	8.35E-03
+postsynapse (GO:0098794)	613	14	2.86	+	4.90	1.16E-06	1.38E-04
+cell junction (GO:0030054)	2089	37	9.74	+	3.80	2.37E-13	2.40E-10
+synapse (GO:0045202)	1321	23	6.16	+	3.74	3.54E-08	7.97E-06
+endosome (GO:0005768)	999	16	4.66	+	3.44	1.64E-05	1.04E-03
+cytosol (GO:0005829)	5391	72	25.13	+	2.87	3.29E-23	6.67E-20
+catalytic complex (GO:1902494)	1463	19	6.82	+	2.79	4.33E-05	2.44E-03
+extracellular exosome (GO:0070062)	2098	26	9.78	+	2.66	2.73E-06	2.51E-04
+extracellular vesicle (GO:1903561)	2120	26	9.88	+	2.63	3.30E-06	2.79E-04
+extracellular organelle (GO:0043230)	2121	26	9.89	+	2.63	3.33E-06	2.70E-04
+extracellular membrane-bounded organelle (GO:0065010)	2121	26	9.89	+	2.63	3.33E-06	2.60E-04
+plasma membrane bounded cell projection (GO:0120025)	2220	27	10.35	+	2.61	2.35E-06	2.27E-04
+cell projection (GO:0042995)	2324	28	10.83	+	2.58	1.72E-06	1.83E-04
+vesicle (GO:0031982)	3940	45	18.37	+	2.45	7.64E-10	1.94E-07
+nucleoplasm (GO:0005654)	4076	41	19.00	+	2.16	4.50E-07	6.08E-05
+cytoplasmic vesicle (GO:0031410)	2458	24	11.46	+	2.09	3.89E-04	1.52E-02
+intracellular vesicle (GO:0097708)	2461	24	11.47	+	2.09	3.94E-04	1.51E-02
+nuclear lumen (GO:0031981)	4424	43	20.62	+	2.09	5.48E-07	6.94E-05
+extracellular space (GO:0005615)	3410	33	15.90	+	2.08	2.29E-05	1.37E-03
+organelle lumen (GO:0043233)	5541	51	25.83	+	1.97	8.72E-08	1.77E-05
+intracellular organelle lumen (GO:0070013)	5541	51	25.83	+	1.97	8.72E-08	1.61E-05
+membrane-enclosed lumen (GO:0031974)	5541	51	25.83	+	1.97	8.72E-08	1.47E-05
+protein-containing complex (GO:0032991)	5621	50	26.20	+	1.91	3.96E-07	5.73E-05
+nucleus (GO:0005634)	7637	66	35.60	+	1.85	4.30E-10	1.25E-07
+extracellular region (GO:0005576)	4381	36	20.42	+	1.76	3.83E-04	1.52E-02
+plasma membrane (GO:0005886)	5905	45	27.53	+	1.63	1.65E-04	8.18E-03
+cell periphery (GO:0071944)	6392	47	29.80	+	1.58	3.44E-04	1.40E-02
+cytoplasm (GO:0005737)	11989	87	55.88	+	1.56	3.82E-12	1.93E-09
+intracellular membrane-bounded organelle (GO:0043231)	12075	77	56.29	+	1.37	9.72E-06	6.57E-04
+membrane (GO:0016020)	9911	62	46.20	+	1.34	1.41E-03	4.85E-02
+membrane-bounded organelle (GO:0043227)	13136	82	61.23	+	1.34	3.33E-06	2.50E-04
+intracellular anatomical structure (GO:0005622)	14868	90	69.30	+	1.30	1.40E-07	2.19E-05
+organelle (GO:0043226)	13963	83	65.09	+	1.28	3.98E-05	2.31E-03
+intracellular organelle (GO:0043229)	13156	78	61.32	+	1.27	2.62E-04	1.10E-02
+cellular anatomical entity (GO:0110165)	18761	96	87.45	+	1.10	2.15E-04	9.29E-03
+cellular_component (GO:0005575)	18906	96	88.13	+	1.09	5.19E-04	1.91E-02
+integral component of membrane (GO:0016021)	5788	8	26.98	-	.30	3.21E-06	2.83E-04
+intrinsic component of membrane (GO:0031224)	5947	8	27.72	-	.29	1.27E-06	1.43E-04
+Unclassified (UNCLASSIFIED)	1689	0	7.87	-	 < 0.01	5.19E-04	1.95E-02
